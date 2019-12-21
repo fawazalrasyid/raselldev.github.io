@@ -176,7 +176,7 @@ strong {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #008080;
+	color: #66b2b2;
 	text-decoration: none;
 }
 
@@ -388,7 +388,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #008080;
+	color: #66b2b2;
 }
 
 /* Form Success And Error Message Formatting */
@@ -621,7 +621,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #008080;
+	color: #66b2b2;
 }
 
 /* Dropdown Menu */
@@ -666,7 +666,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #008080;
+	color: #66b2b2;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -980,7 +980,7 @@ input[type='checkbox'] {
 }
 
 .accordion .item:hover .accordion-title {
-	color: #008080;
+	color: #66b2b2;
 }
 
 .accordion span[aria-expanded="true"] .accordion-title {
@@ -1023,7 +1023,7 @@ input[type='checkbox'] {
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-	color: #008080;
+	color: #66b2b2;
 }
 
 .tabs .nav-link .fas {
@@ -1288,7 +1288,7 @@ input[type='checkbox'] {
 }
 
 .filter .button-group a:hover {
-	background-color: #008080;
+	background-color: #66b2b2;
 	color: #fff;
 }
 
@@ -1646,7 +1646,7 @@ input[type='checkbox'] {
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-	color: #008080;
+	color: #66b2b2;
 }
 
 
@@ -1809,7 +1809,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #008080;
+		color: #66b2b2;
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -1828,7 +1828,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #008080;
+		color: #66b2b2;
 	}
 
 	.navbar-custom .dropdown-menu {
