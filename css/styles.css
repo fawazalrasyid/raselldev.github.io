@@ -57,6 +57,11 @@ body, p {
 	font: 400 1rem/1.5625rem "Poppins", sans-serif;
 }
 
+.keahlian{
+	text-align: center;
+	margin-bottom: 1.625rem;
+}
+
 .p-large {
 	font: 400 1.125rem/1.625rem "Poppins", sans-serif;
 }
