@@ -43,7 +43,7 @@ body {
 }
 
 #links {
-	max-width: 675px;
+	max-width: 55em;
 	width: auto;
 	display: block;
 	margin: 27px auto;
