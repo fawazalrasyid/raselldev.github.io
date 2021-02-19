@@ -6,7 +6,9 @@
 }
 
 body {
-	background-color: #444;
+    background-color: #444;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 #userPhoto {
